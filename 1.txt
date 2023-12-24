@@ -1,5 +1,6 @@
 喜爱频道,#genre#
 广东珠江,http://183.237.231.139:9901/tsfile/live/1056_1.m3u8
+广东珠江,https://skype.serv00.net/itouch.php?id=gdzj
 广东珠江,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel65/index.m3u8
 广东珠江,http://gxdl-lhs.8866.org:85/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://gxdl-lhs.8866.org:85/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
