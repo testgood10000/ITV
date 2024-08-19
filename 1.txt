@@ -1,7 +1,7 @@
 专属频道,#genre#
 TVB星河,http://171.108.239.127:8181/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 ktv://91kds.com/?type=live&url=http%3A%2F%2F171.108.239.127%3A8181%2Ftsfile%2Flive%2F1005_1.m3u8%3Fkey%3Dtxiptv%26playlive%3D1%26authid%3D0&name=TVB%E6%98%9F%E6%B2%B3
-广东珠江 183.234.156.66:10000 udp://239.77.1.94:5146
+广东珠江,183.234.156.66:10000 udp://239.77.1.94:5146
 ktv://91kds.com/?type=live&url=http%3A%2F%2F183.234.156.66%3A10000%2Fudp%2F239.77.1.94%3A5146&name=%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F
 广东珠江,121.32.204.50:9999 udp://239.77.1.94:5146
 ktv://91kds.com/?type=live&url=http%3A%2F%2F121.32.204.50%3A9999%2Fudp%2F239.77.1.94%3A5146&name=%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F
